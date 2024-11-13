@@ -1,4 +1,4 @@
-# Diffusion2D-Python-Package
+# diffusion2D
 
 ## Instructions for students
 
